@@ -106,8 +106,8 @@ const Header = () => {
                   alt="CareerCraft AI Logo"
                   className="h-10 w-auto transition-transform duration-200 group-hover:scale-105"
                 />
-                <span className="text-xl font-bold text-foreground">
-                  CareerCraft AI
+                <span className="text-2xl font-logo logo-road-rage text-foreground">
+                  NextStep AI
                 </span>
               </a>
             </div>

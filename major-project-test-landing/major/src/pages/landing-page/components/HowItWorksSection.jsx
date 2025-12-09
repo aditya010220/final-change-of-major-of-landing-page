@@ -87,7 +87,7 @@ const HowItWorksSection = () => {
       <div className="container mx-auto max-w-6xl">
         <div className="text-center mb-12 space-y-4">
           <h2 className="text-3xl sm:text-4xl font-bold text-foreground">
-            How CareerCraft AI Works
+            How NextStep AI Works
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             From data input to career success in four simple steps

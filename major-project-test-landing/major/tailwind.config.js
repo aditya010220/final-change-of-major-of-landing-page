@@ -62,6 +62,7 @@ module.exports = {
       fontFamily: {
         sans: ['Inter', 'system-ui', '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'sans-serif'],
         accent: ['Poppins', 'sans-serif'],
+        logo: ['Bebas Neue', 'Permanent Marker', 'sans-serif'],
       },
       fontSize: {
         'hero': ['3.5rem', { lineHeight: '1.1', letterSpacing: '-0.02em', fontWeight: '800' }],

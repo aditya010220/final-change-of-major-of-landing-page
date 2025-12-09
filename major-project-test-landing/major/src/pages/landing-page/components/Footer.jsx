@@ -44,8 +44,8 @@ const Footer = () => {
                 alt="CareerCraft AI Logo"
                 className="h-10 w-auto transition-transform duration-200 group-hover:scale-105"
               />
-              <span className="text-xl font-bold">
-                CareerCraft AI
+              <span className="text-2xl font-logo logo-road-rage">
+                NextStep AI
               </span>
             </a>
             <p className="text-sm text-slate-400 leading-relaxed">
@@ -117,7 +117,7 @@ const Footer = () => {
         <div className="pt-8 border-t border-slate-800">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <p className="text-sm text-slate-400">
-              &copy; {currentYear} CareerCraft AI. All rights reserved.
+              &copy; {currentYear} NextStep AI. All rights reserved.
             </p>
             <div className="flex items-center gap-4 text-sm text-slate-400">
               <a href="#privacy" className="hover:text-white transition-colors">

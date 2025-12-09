@@ -13,7 +13,7 @@ const TestimonialsSection = () => {
     university: 'IIT Delhi',
     image: "https://img.rocket.new/generatedImages/rocket_gen_img_101904fc7-1763294024485.png",
     imageAlt: 'Professional headshot of young Indian woman with long black hair wearing blue formal blazer smiling confidently',
-    quote: 'CareerCraft AI helped me identify my skill gaps and provided a clear roadmap. I secured an internship at Google within 3 months of following the personalized plan.',
+    quote: 'NextStep AI helped me identify my skill gaps and provided a clear roadmap. I secured an internship at Google within 3 months of following the personalized plan.',
     achievement: 'Google SWE Intern',
     beforeCGPA: '7.8',
     afterPlacement: 'Google',

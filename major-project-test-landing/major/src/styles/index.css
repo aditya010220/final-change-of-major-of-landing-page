@@ -63,3 +63,20 @@ body {
 .animate-float-slow {
   animation: float-slow 8s ease-in-out infinite;
 }
+
+/* Road Rage Logo Style */
+.logo-road-rage {
+  font-family: 'Bebas Neue', sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  transform: skewX(-8deg);
+  text-shadow: 3px 3px 0px rgba(0, 0, 0, 0.2),
+               -1px -1px 0px rgba(255, 255, 255, 0.1);
+  filter: drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.3));
+  position: relative;
+  background: linear-gradient(180deg, currentColor 0%, currentColor 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+}
